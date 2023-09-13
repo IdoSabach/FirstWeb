@@ -84,9 +84,6 @@ body{
 
 /*****************************/
 
-.blok2{
-}
-
 .title2{
   text-align: center;
   font-size: 36px;
@@ -123,5 +120,74 @@ body{
 .textone{
   font-size: 18px;
   padding-top: 10px;
+}
+
+.blok3{
+  background-color: #E5E7EB;
+  /* background-color:#1F2937; */
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.miniblok3{
+  width: 60%;
+  height: 50%;
+}
+
+.textblok3{
+  font-size: 19px;
+  padding-bottom: 2px;
+}
+
+.ido{
+  text-align: right;
+}
+
+.blok4{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 250px;
+}
+
+.miniblok4{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(82, 166, 250);
+  height: 40%;
+  width: 80%;
+  border-radius: 10px;
+}
+
+.textblok4{
+  padding: 30px;
+}
+.textblok4one{
+  color: white;
+  font-size: 25px;
+}
+
+.textblok4two{
+  color: white;
+}
+
+.signup4{
+  background-color: rgb(82, 166, 250);
+  color: white;
+  border-radius: 5px;
+  border-color: white;
+  width: 80px;
+}
+
+.downline{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1F2937;
+  color: white;
+  height: 50px;
 }
 
