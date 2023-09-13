@@ -41,6 +41,7 @@ body{
   padding-top: 14%;
   padding-bottom: 14%;
   color: white;
+  
 
 }
 
@@ -60,6 +61,7 @@ body{
   justify-content: space-around;
   cursor: pointer;
 }
+
 
 .head{
   font-size: 48px;
@@ -83,44 +85,43 @@ body{
 /*****************************/
 
 .blok2{
-  border-style: dashed;
-  padding: 7%;
-  height: 500px;
 }
 
 .title2{
   text-align: center;
   font-size: 36px;
+  padding-top: 4%;
+  padding-bottom: 4%;
 }
 
 .bigblok{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  border-style: dashed;
-  height: 300px;
   padding-top:20px ;
 }
 
 .miniblokone{
   align-items: center;
   text-align: center;
-  padding: 15px;
-  
+  padding-bottom: 100px;
 
 }
 
 .first{
-  width: 200px;
-  height: 200px;
+  
+  height: 150px;
+  width: 150px;
   background-color: white;
   border-width: 5px;
   border-radius: 15px;
   border-color: rgb(82, 166, 250);
   padding-bottom: 8px;
+  cursor: pointer;
 }
 
 .textone{
   font-size: 18px;
+  padding-top: 10px;
 }
 
