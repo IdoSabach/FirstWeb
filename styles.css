@@ -1,0 +1,126 @@
+body{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  /* color: white; */
+}
+
+.blok1{
+  background-color:#1F2937;
+}
+
+.line-up{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 7%;
+  padding-right: 7%;
+}
+
+.logo{
+  font-size: 24px;
+  color: white;
+}
+
+.right{
+  display: flex;
+  align-items: center;
+  color: white;
+}
+
+.l1,.l2,.l3{
+  padding: 10px;
+  font-size: 18px;
+}
+
+.l1,.l2,.l3:hover{
+  cursor: pointer;
+}
+
+.miniblok1{
+  padding-right:7%;
+  padding-left: 7%;
+  padding-top: 14%;
+  padding-bottom: 14%;
+  color: white;
+
+}
+
+.bbblok{
+  display: flex;
+}
+
+.miniblok2{
+  width: 50%;
+}
+
+.imag{
+  background-color: rgb(181, 181, 181);
+  width: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  cursor: pointer;
+}
+
+.head{
+  font-size: 48px;
+}
+
+.p1{
+  font-size: 18px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.signup{
+  background-color: rgb(82, 166, 250);
+  color: white;
+  border-radius: 6px;
+  width: 130px;
+  height: 30px;
+  cursor: pointer;
+}
+
+/*****************************/
+
+.blok2{
+  border-style: dashed;
+  padding: 7%;
+  height: 500px;
+}
+
+.title2{
+  text-align: center;
+  font-size: 36px;
+}
+
+.bigblok{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-style: dashed;
+  height: 300px;
+  padding-top:20px ;
+}
+
+.miniblokone{
+  align-items: center;
+  text-align: center;
+  padding: 15px;
+  
+
+}
+
+.first{
+  width: 200px;
+  height: 200px;
+  background-color: white;
+  border-width: 5px;
+  border-radius: 15px;
+  border-color: rgb(82, 166, 250);
+  padding-bottom: 8px;
+}
+
+.textone{
+  font-size: 18px;
+}
+
